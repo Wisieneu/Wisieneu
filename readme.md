@@ -8,7 +8,7 @@
 Here's a quick summary about me:
 
 - 😊 Pronouns: He/him
-- 💭 I’m currently building JavaScript and NodeJS projects.
-- 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer and Web developer (Intern or Junior level).
+- 💭 I’m currently building JavaScript and NodeJS projects
+- 😊 I’m looking for help with open source projects
+- 💼 Job interests: Software Engineer and Backend Web Developer
 - 📫 You can contact me by emailing b.wisn7@gmail.com
