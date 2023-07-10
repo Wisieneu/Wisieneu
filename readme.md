@@ -7,7 +7,6 @@
 
 Here's a quick summary about me:
 
-- 😊 Pronouns: He/him
 - 💭 I’m currently building JavaScript and NodeJS projects
 - 😊 I’m looking for help with open source projects
 - 💼 Job interests: Software Engineer and Backend Web Developer
