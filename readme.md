@@ -20,7 +20,7 @@ Here's a quick summary about me:
 
 #### Frameworks:  
   
-![https://expressjs.com/](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![https://www.djangoproject.com/](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![OpenCV](https://img.shields.io/badge/Opencv-1F71D3?style=for-the-badge&logo=opencv&logoColor=white)
+![https://expressjs.com/](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![https://www.djangoproject.com/](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![OpenCV](https://img.shields.io/badge/Opencv-1F71D3?style=for-the-badge&logo=opencv&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### Tools:  
 
