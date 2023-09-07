@@ -2,7 +2,7 @@
 <a href="https://stackoverflow.com/users/18636312/wisie"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>
 
 ## Howdy :cowboy_hat_face:
-### Welcome to my GitHub page! Hope you're doing well! My name's Bartłomiej, I'm a 21 years old <strong>Backend Engineer</strong> from Warsaw.</p>
+### Welcome to my GitHub page! Hope you're doing well! My name's Bartłomiej, I'm a 22 years old <strong>Programming Enthuziast</strong> from Warsaw.</p>
 <p> Currently working hard on building up my open-source portfolio, I hope you're here for this very thing :hugs:</p>
 
 Here's a quick summary about me:
