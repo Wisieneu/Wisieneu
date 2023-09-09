@@ -20,10 +20,10 @@ Here's a quick summary about me:
 
 #### Frameworks:  
   
-![https://expressjs.com/](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![https://www.djangoproject.com/](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![OpenCV](https://img.shields.io/badge/Opencv-1F71D3?style=for-the-badge&logo=opencv&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![https://expressjs.com/](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![https://www.djangoproject.com/](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![OpenCV](https://img.shields.io/badge/Opencv-1F71D3?style=for-the-badge&logo=opencv&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 #### Tools:  
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Mongoose](https://img.shields.io/badge/Mongoose-A72828?style=for-the-badge&logo=mongoose&logoColor=white) ![Pug Templates](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 ![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![https://slack.com/](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
