@@ -9,7 +9,6 @@ Here's a quick summary about me:
 
 - 💭 I’m currently building JavaScript and NodeJS projects
 - 😊 I’m looking for help with open source projects
-- 💼 Job interests: Software Engineer and QA related positions 
 - 📫 You can contact me by my business email: *b.wisn7@gmail.com*
 - 🎮 Working in gamedev full-time, part-time as a tutor  
 
