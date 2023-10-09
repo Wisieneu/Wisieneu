@@ -12,12 +12,12 @@ Here's a quick summary about me:
 - 📫 You can contact me by my business email: *b.wisn7@gmail.com*
 - 🎮 Working in gamedev full-time, part-time as a tutor  
 
-### Technologies I've been working with in the past/been exposed to:  
+## Technologies I've been working with in the past/been exposed to:  
 
-#### Languages:  
+### Languages:  
 ![https://www.typescriptlang.org](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![https://www.javascript.com/](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![https://www.python.org/](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![https://learn.microsoft.com/pl-pl/dotnet/csharp/](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
-#### Frameworks:  
+### Frameworks:  
   
 ![https://expressjs.com/](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![https://www.djangoproject.com/](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![OpenCV](https://img.shields.io/badge/Opencv-1F71D3?style=for-the-badge&logo=opencv&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
