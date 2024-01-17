@@ -3,7 +3,7 @@
 
 ## Howdy :cowboy_hat_face:
 ### Welcome to my GitHub page! Hope you're doing well! My name's Bartłomiej, I'm a 22 years old <strong>Programming Enthuziast</strong> from Warsaw.</p>
-<p> Currently working hard on building up my open-source portfolio, I hope you're here for this very thing :hugs:</p>
+<p> Currently working hard on building up my open-source portfolio, I hope you're here to check out this very thing :hugs:</p>
 
 Here's a quick summary about me:
 
