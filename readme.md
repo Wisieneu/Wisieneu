@@ -10,7 +10,8 @@ Here's a quick summary about me:
 - 💭 I’m currently building JavaScript and NodeJS projects
 - 😊 I’m looking for help with open source projects
 - 📫 You can contact me by my business email: *b.wisn7@gmail.com*
-- 🎮 Working in gamedev full-time, part-time as a tutor  
+- 🎮 Working in gamedev full-time, part-time as a tutor
+- 🖥  Wishing to learn game modding, and perhaps even my own game some day 🤗  
 
 ## Technologies I've been working with in the past/been exposed to:  
 
