@@ -7,7 +7,7 @@
 
 Here's a quick summary about me:
 
-- 💭 I’m currently building JavaScript and NodeJS projects
+- 💭 I’m currently building Typescript projects and contributing to the open source
 - 😊 I’m looking for help with open source projects
 - 📫 You can contact me by my business email: *b.wisn7@gmail.com*
 - 🎮 Working in gamedev full-time, part-time as a tutor
