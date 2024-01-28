@@ -30,7 +30,7 @@ Here's a quick summary about me:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 
 
 ### Other:  
-![OpenCV](https://img.shields.io/badge/Opencv-1F71D3?style=for-the-badge&logo=opencv&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Opencv-1F71D3?style=for-the-badge&logo=opencv&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
 ### Tools:    
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
