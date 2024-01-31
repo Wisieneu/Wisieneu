@@ -13,7 +13,7 @@ Here's a quick summary about me:
 - 🎮 Working in QA full-time, part-time as a tutor
 - 🖥  Wishing to learn game modding, and perhaps even make my own game some day 🤗  
 
-## Technologies I've been working with in the past/been exposed to:  
+## Technologies I have actual experience with:  
 
 ### Languages:  
 ![https://www.typescriptlang.org](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![https://www.javascript.com/](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![https://www.python.org/](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![https://learn.microsoft.com/pl-pl/dotnet/csharp/](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
