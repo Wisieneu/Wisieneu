@@ -9,19 +9,20 @@
 
 Here's a quick summary about me:
 
-- 💭 I’m currently building Typescript projects and contributing to the open source
+- 💭 I’m currently building Typescript projects, contributing to the open source
+- 🌐 Focusing on learning how the web works and becoming a better QA Specialist
 - 😊 I’m looking for help with open source projects
-- 📫 You can contact me by my business email: *b.wisn7@gmail.com*
+- 📫 You can contact me directly [via my website](https://portfolio.wise-ee.xyz/contact)
 - 🎮 Working in QA full-time, part-time as a tutor
 - 🖥  Wishing to learn game modding, and perhaps even make my own game some day 🤗  
 
 ## Technologies I have experience with:  
 
 ### Languages:  
-![https://www.typescriptlang.org](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![https://www.javascript.com/](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![https://www.python.org/](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![https://learn.microsoft.com/pl-pl/dotnet/csharp/](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![https://www.python.org/](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-4D0080?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 ### Back-end stack:  
-![https://expressjs.com/](https://img.shields.io/badge/express-404D59?style=for-the-badge&logo=express&logoColor=white) ![https://www.djangoproject.com/](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Expressjs](https://img.shields.io/badge/express-404D59?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Front-end stack:  
