@@ -1,5 +1,7 @@
 <a href="https://www.linkedin.com/in/wisie/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/18636312/wisie"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>
+<a href="https://www.postman.com/wisieneu"><img alt="Postman Profile" src="https://img.shields.io/badge/Postman profile-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></img></a>
+
 ### [My portfolio website 🙄](https://portfolio.wise-ee.xyz/)
 
 
