@@ -6,7 +6,7 @@
 
 
 ## Howdy :cowboy_hat_face:
-### Welcome to my GitHub page! Hope you're doing well! My name's Bartłomiej, I'm a 22 years old <strong>QA Engineer</strong> from Warsaw.</p>
+### Welcome to my GitHub page! Hope you're doing well! My name's Bartłomiej, I'm a 23 years old <strong>QA Engineer</strong> from Warsaw.</p>
 <p> Currently working hard on building up my open-source portfolio, I hope you're here to check out this very thing :hugs:</p>
 
 Here's a quick summary about me:
@@ -15,7 +15,7 @@ Here's a quick summary about me:
 - 🌐 Focusing on learning how the web works and becoming a better QA Specialist
 - 😊 I’m looking for help with open source projects
 - 📫 You can contact me directly [via my website](https://portfolio.wise-ee.xyz/contact)
-- 🎮 Working in QA full-time, part-time as a tutor
+- 💼 Working in web dev full-time, part-time as a tutor
 - 🖥  Wishing to learn game modding, and perhaps even make my own game some day 🤗  
 
 ## Technologies I have experience with:  
