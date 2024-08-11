@@ -6,7 +6,7 @@
 
 
 ## Howdy :cowboy_hat_face:
-### Welcome to my GitHub page! Hope you're doing well! My name's Bartłomiej, I'm a 23 years old <strong>Engineer</strong> from Warsaw.
+### Welcome to my GitHub page! Hope you're doing well! My name's Bartłomiej, I'm a 22 years old <strong>Engineer</strong> from Warsaw.
 <p> Currently working hard on building up my open-source portfolio, I hope you're here to check out this very thing :hugs:</p>
 
 Here's a quick summary about me:
