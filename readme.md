@@ -6,7 +6,7 @@
 
 
 ## Howdy :cowboy_hat_face:
-### Welcome to my GitHub page! Hope you're doing well! My name's Bartłomiej, I'm a 23 years old <strong>QA Engineer</strong> from Warsaw.</p>
+### Welcome to my GitHub page! Hope you're doing well! My name's Bartłomiej, I'm a 23 years old <strong>Engineer</strong> from Warsaw.
 <p> Currently working hard on building up my open-source portfolio, I hope you're here to check out this very thing :hugs:</p>
 
 Here's a quick summary about me:
@@ -23,7 +23,6 @@ Here's a quick summary about me:
 ### Languages:  
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![https://www.python.org/](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-4D0080?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 ### Back-end stack:  
 ![Expressjs](https://img.shields.io/badge/express-404D59?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
