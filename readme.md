@@ -2,11 +2,11 @@
 <a href="https://stackoverflow.com/users/18636312/wisie"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>
 <a href="https://www.postman.com/wisieneu"><img alt="Postman Profile" src="https://img.shields.io/badge/Postman profile-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></img></a>
 
-### [My portfolio website 🙄](https://portfolio.wise-ee.xyz/)
+### [↗ My portfolio website (quite cool ngl 🙄🙄🙄) ↗](https://portfolio.wise-ee.xyz/)
 
 
 ## Howdy :cowboy_hat_face:
-### Welcome to my GitHub page! Hope you're doing well! My name's Bartłomiej, I'm a 22 years old <strong>Engineer</strong> from Warsaw.
+### Welcome to my GitHub page! Hope you're doing well! My name's Bartłomiej, I'm a 23 years old <strong>Engineer</strong> from Warsaw.
 <p> Currently working hard on building up my open-source portfolio, I hope you're here to check out this very thing :hugs:</p>
 
 Here's a quick summary about me:
@@ -15,8 +15,8 @@ Here's a quick summary about me:
 - 🌐 Focusing on learning how the web works and becoming a better QA Specialist
 - 😊 I’m looking for help with open source projects
 - 📫 You can contact me directly [via my website](https://portfolio.wise-ee.xyz/contact)
-- 💼 Working in web dev full-time, part-time as a tutor
-- 🖥  Wishing to learn game modding, and perhaps even make my own game some day 🤗  
+- 💼 Working in web dev full-time, part-time as a bilingual teacher
+- 🖥  Wishing to learn game modding, and perhaps even make my own game some day 🤗 But that's certainly not a one-man job 💀
 
 ## Technologies I have experience with:  
 
