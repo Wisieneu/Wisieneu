@@ -12,7 +12,7 @@
 Here's a quick summary about me:
 
 - 💭 I’m currently building Typescript projects, contributing to the open source
-- 🌐 Focusing on learning how the web works and becoming a better QA Specialist
+- 🌐 Focusing on technical studies and becoming a better engineer
 - 😊 I’m looking for help with open source projects
 - 📫 You can contact me directly [via my website](https://portfolio.wise-ee.xyz/contact)
 - 💼 Working in web dev full-time, part-time as a bilingual teacher
