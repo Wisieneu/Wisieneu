@@ -1,8 +1,8 @@
+### Howdy :cowboy_hat_face:
+
 ### [↗ My portfolio website (quite cool ngl 🙄🙄🙄) ↗](https://portfolio.wise-ee.xyz/)
 
-## Howdy :cowboy_hat_face:
-
-## My tech stack:
+### My tech stack:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![https://www.python.org/](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 
