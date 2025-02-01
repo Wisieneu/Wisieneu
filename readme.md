@@ -1,16 +1,6 @@
 ### [↗ My portfolio website (quite cool ngl 🙄🙄🙄) ↗](https://portfolio.wise-ee.xyz/)
 
 ## Howdy :cowboy_hat_face:
-### Welcome to my GitHub page! My name's Bartłomiej, I'm a 23 years old <strong>Engineer</strong> from Poland.
-<p> Currently working hard on building up my open-source portfolio, I hope you're here to check out this very thing :hugs:</p>
-
-Here's a quick summary about me:
-
-- 💭 I’m currently building Typescript projects and contributing to the open source
-- 🌐 Focusing on technical studies and becoming a better engineer
-- 😊 I’m looking for help with open source projects
-- 💼 Working in web dev full-time, part-time as a bilingual teacher
-- 🖥  Wishing to learn game modding, perhaps even going to make my own game some day 🤗 
 
 ## My tech stack:
 
